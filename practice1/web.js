@@ -9,6 +9,10 @@ function getCount(i)
     else if(i==2)
     {
         if(count>0)
+
+
+
+        
         count--;
         document.getElementById("count").value=count;
     }
